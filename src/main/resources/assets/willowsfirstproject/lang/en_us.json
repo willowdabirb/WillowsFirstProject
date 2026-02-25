@@ -1,0 +1,13 @@
+{
+  "itemGroup.willowsfirstproject": "Example Mod Tab",
+  "block.willowsfirstproject.example_block": "Example Block",
+  "item.willowsfirstproject.example_item": "Example Item",
+
+  "willowsfirstproject.configuration.title": "Willow's First Project Configs",
+  "willowsfirstproject.configuration.section.willowsfirstproject.common.toml": "Willow's First Project Configs",
+  "willowsfirstproject.configuration.section.willowsfirstproject.common.toml.title": "Willow's First Project Configs",
+  "willowsfirstproject.configuration.items": "Item List",
+  "willowsfirstproject.configuration.logDirtBlock": "Log Dirt Block",
+  "willowsfirstproject.configuration.magicNumberIntroduction": "Magic Number Text",
+  "willowsfirstproject.configuration.magicNumber": "Magic Number"
+}
